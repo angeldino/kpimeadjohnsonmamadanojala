@@ -17,10 +17,18 @@
                 </div>
             </ul>
         </div>
-        <p>Autor: Luis Angel Aguila Ramos</p>
-        <p>Correo: aguilaluis22@gmail.com</p>
-        <p>Cel: 6564133348</p>
-        <p>Dirección: Enrique Segoviano</p>
-        <script src="app.js"></script>
+
+        <div class="info_contacto">
+            <div class="texto">
+                Autor: Luis Angel Aguila Ramos<br><br>
+                Correo: aguilaluis22@gmail.com<br><br>
+                Cel: 6564133348<br><br>
+                Dirección: Av. Siempre Viva #742<br>
+            </div>
+        </div>
+        
+
+    <div class="bottom">
+    </div>
     </body>
 </html>

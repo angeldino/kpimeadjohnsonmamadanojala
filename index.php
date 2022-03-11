@@ -23,7 +23,8 @@
         </div>
 
         <div class="formulario">
-            <form action="post.php" method="POST">
+        <div class="titulo_registro">Registro de viajes</div>
+            <form class="registro" action="post.php" method="POST">
                 <label for="fname">Ruta de viaje:</label><br>
                 <select name="viaje_nombre_ruta" id="viaje_nombre_ruta">
                     <option value="El Paso a Chihuahua y Delicias">El Paso a Chihuahua y Delicias</option>
@@ -59,6 +60,7 @@
                 <input type="submit" value="Guardar">
             </form>
         </div>
-
+    <div class="bottom">
+    </div>
     </body>
 </html>

@@ -28,6 +28,7 @@
         </div>
         
 
-        <script src="app.js"></script>
+    <div class="bottom">
+    </div>
     </body>
 </html>
