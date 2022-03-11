@@ -10,7 +10,19 @@
     </head>
 
     <body class="body">
-        <div class="loginform">
+    <div class="body_menu">
+            <ul class="menu">
+                <a href="indicador.php"><li>Indicador</li></a>
+                <a href="index.php"><li>Captura</li></a>
+                <a href="consulta.php"><li>Consulta</li></a>
+                <a href="contacto.php"><li>Contacto</li></a>
+                <div class="titulo">
+                    KEY PERFORMANCE INDICATOR - MEAD JOHNSON
+                </div>
+            </ul>
+        </div>
+
+        <div class="formulario">
             <form action="post.php" method="POST">
                 <label for="fname">Ruta de viaje:</label><br>
                 <select name="viaje_nombre_ruta" id="viaje_nombre_ruta">

@@ -27,7 +27,7 @@
         
             catch(PDOException $e)
             {
-                
+                print_r($e);
             }
         
             $pdo = null;
